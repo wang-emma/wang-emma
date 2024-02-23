@@ -24,6 +24,7 @@ Check out some of my projects below:
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emma-wang-profile/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.instagram.com/ema_planet/)
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or just chat!
