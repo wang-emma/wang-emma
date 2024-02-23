@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer/Data Analyst, and I
 
 - 🌱 I'm currently learning Azure and Python.
 - 👯 I'm looking to collaborate on [project idea or interest].
-- ⚡ Fun fact: [interesting fact about yourself].
+
 
 ## Technologies
 
