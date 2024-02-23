@@ -23,7 +23,7 @@ Check out some of my projects below:
 
 ## Get in Touch
 
-![LinkedIn](https://img.shields.io/badge/Linkedin-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 - Twitter: [@YourTwitterHandle](link)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or just chat!
