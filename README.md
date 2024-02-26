@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer/Data Analyst, and I
 ## About Me
 
 - 🌱 I'm currently learning Azure and Python.
-- 👯 I'm looking to collaborate on [project idea or interest].
+- 👯 I'm looking to collaborate on ETL and Data Science projects.
 
 
 ## Technologies
