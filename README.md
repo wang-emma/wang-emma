@@ -24,7 +24,7 @@ Check out some of my projects below:
 ## Current Interest
 I am working on ETL using R and dbt. 
 Here is one workflow I developed in R: 
-![alt text]([http://url/to/img.png](https://lucid.app/lucidchart/da370669-7fcb-4ee7-a44e-2fa2121993b9/edit?invitationId=inv_71a1562b-6cdf-44c2-96d7-4da32ffdd20c))
+![new](https://github.com/wang-emma/wang-emma/blob/main/Blank%20diagram.png))
 
 ## Get in Touch
 
