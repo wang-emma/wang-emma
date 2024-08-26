@@ -21,6 +21,11 @@ Check out some of my projects below:
 
 - [Analysis-of-Drinking-Driving-Policies](https://github.com/wang-emma/Analysis-of-Drinking-Driving-Policies)
 
+## Current Interest
+I am working on ETL using R and dbt. 
+Here is one workflow I developed in R: 
+![alt text]([http://url/to/img.png](https://lucid.app/lucidchart/da370669-7fcb-4ee7-a44e-2fa2121993b9/edit?invitationId=inv_71a1562b-6cdf-44c2-96d7-4da32ffdd20c))
+
 ## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/emma-wang-profile/)
