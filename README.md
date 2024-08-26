@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer/Data Analyst, and I
 
 ## About Me
 
-- 🌱 I'm currently learning Azure and Python.
+- 🌱 I'm currently learning Good Cloud, dbt and Python.
 - 👯 I'm looking to collaborate on ETL and Data Science projects.
 
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer/Data Analyst, and I
 Here are some of the technologies I work with:
 
 - Programming Languages: R, SAS and SQL
-- Tools & Platforms: Tableau and Azure
+- Tools & Platforms: Tableau and Google Cloud
 
 ## Projects
 
