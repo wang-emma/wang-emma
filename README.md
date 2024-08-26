@@ -23,7 +23,7 @@ Check out some of my projects below:
 
 ## Current Interest
 I am working on ETL using R and dbt. 
-Here is one workflow I developed in R: 
+Here is one workflow I developed in R, which is open for discussion: 
 ![](https://github.com/wang-emma/wang-emma/blob/main/Blank%20diagram.png)
 
 ## Get in Touch
