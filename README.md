@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer/Data Analyst, and I
 
 ## About Me
 
-- 🌱 I'm currently learning Good Cloud, dbt and Python.
+- 🌱 I'm currently learning Google Cloud, dbt and Python.
 - 👯 I'm looking to collaborate on ETL and Data Science projects.
 
 
